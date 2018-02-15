@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 what
 the fk
+=======
+asd
+>>>>>>> e81cae36d2552bc0adf864a30f51ba245840a929
